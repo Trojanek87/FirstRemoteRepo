@@ -1,3 +1,4 @@
 bread	3.50
 eggs	8.00
 butter	5.50
+rice	4.00
